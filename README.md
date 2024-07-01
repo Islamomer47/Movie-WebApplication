@@ -41,3 +41,7 @@ https://github.com/developing-team
 ### You can see Cima Kids Website from here :
 
 https://github.com/developing-team/cima-kids
+
+### live URL :
+
+http://developing-team.github.io/cima-kids/
